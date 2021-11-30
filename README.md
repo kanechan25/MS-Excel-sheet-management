@@ -5,6 +5,7 @@
 Then, separating them into 2 parts: the hiding sheets and the unhiding sheets.
 - You can customize visibility of every sheet.
 - Hoping it support you a bit in your work!
+<img src="https://github.com/kanechan25/excel-sheet-management/blob/main/Demo%20Form.jpg">
 ---
 
 ### 🖥 My Channel YouTube Videos
