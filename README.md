@@ -1,4 +1,4 @@
-## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - BIM Technician - Developer 
+## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> BIM Technologist - Web Developer 
 # excel-sheet-management
 - This is a simple tool that helps you with many Excel sheet management.
 - This Userform will count & list all sheets in your Excel workbook.
@@ -22,7 +22,7 @@ Then, separating them into 2 parts: the hiding sheets and the unhiding sheets.
 
 ### 📫 Contact me via:
 - kanechan.civilengineer@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/kanechan2593/)
+- [LinkedIn](https://www.linkedin.com/in/khoatran2593/)
 - [Facebook](https://www.facebook.com/khoa2425/)
 - [Reading for funny](https://ngoatv.blogspot.com/)
 ### © 2021 kanechan25
