@@ -1,4 +1,4 @@
-## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> BIM Technologist - Web Developer 
+## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> BIM Technologist - Web Developer 
 # excel-sheet-management
 - This is a simple tool that helps you with many Excel sheet management.
 - This Userform will count & list all sheets in your Excel workbook.
